@@ -3,12 +3,12 @@
 
 # 🪙 Jogo das Moedas
 
-Este repositório contém o **Jogo das Moedas**, uma atividade digital pensada para estudantes da **Educação Básica** com atenção especial ao público **elegível de Educação Especial**.  O objetivo é tornar o aprendizado **lúdico, inclusivo e acessível**, utilizando um jogo simples de lógica e raciocínio matemático.
+Este repositório contém o **Jogo das Moedas**, uma atividade digital pensada para estudantes da **Educação Básica** com atenção especial ao público **elegível de Educação Especial**.  O objetivo é tornar o aprendizado **lúdico, inclusivo e acessível**, utilizando um jogo simples de raciocínio aritmético.
 
 ---
 
 ## 🎯 Objetivos Educacionais
-- Estimular o **raciocínio lógico**.  
+- Estimular o **raciocínio aritmético**.  
 - Promover o desenvolvimento da **atenção**, **memória** e **cálculo mental**.  
 - Incentivar a **interação social** e o **trabalho em dupla ou em grupo**.  
 - Oferecer um ambiente digital inclusivo, que pode ser adaptado de acordo com as necessidades dos estudantes.  
