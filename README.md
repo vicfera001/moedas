@@ -8,8 +8,8 @@ Este repositório contém o **Jogo das Moedas**, uma atividade digital pensada p
 ---
 
 ## 🎯 Objetivos Educacionais
-- Estimular o **raciocínio lógico** e a **tomada de decisão**.  
-- Promover o desenvolvimento da **atenção**, **memória** e **sequenciação de ações**.  
+- Estimular o **raciocínio lógico**.  
+- Promover o desenvolvimento da **atenção**, **memória** e **cálculo mental**.  
 - Incentivar a **interação social** e o **trabalho em dupla ou em grupo**.  
 - Oferecer um ambiente digital inclusivo, que pode ser adaptado de acordo com as necessidades dos estudantes.  
 
@@ -17,8 +17,8 @@ Este repositório contém o **Jogo das Moedas**, uma atividade digital pensada p
 
 ## 🕹️ Como funciona
 1. O jogo apresenta **moedas dispostas em sequência**.  
-2. Os jogadores podem retirar uma ou mais moedas de acordo com as regras.  
-3. O vencedor é aquele que realiza a última jogada.  
+2. Os jogadores contam o valor das moedas.  
+3. O vencedor é aquele que acerta o valor a cada rodada.  
 4. Versão digital adaptada para rodar em **qualquer navegador** a partir de um único arquivo HTML.  
 
 *(O professor pode ajustar as regras para simplificar ou aumentar a dificuldade, conforme o perfil da turma.)*
@@ -27,7 +27,7 @@ Este repositório contém o **Jogo das Moedas**, uma atividade digital pensada p
 
 ## ✨ Recursos Inclusivos
 - Interface visual simples, com **alto contraste**.  
-- Textos curtos e claros, adequados a diferentes níveis de leitura.  
+- Textos curtos e claros, adequados a diferentes níveis de leitura em voz computacional.  
 - Pode ser jogado em **computador, tablet ou celular**.  
 - Atividade adaptável: pode ser usada tanto de forma individual quanto colaborativa.  
 
